@@ -1,5 +1,5 @@
 # Computer Animation and Special Effects Homework Repository
-
+【 NYCU 2024 spring Semester 】by Professor 林文杰
 This repository contains homework assignments for **NYCU Computer Animation and Special Effects**, covering **particle systems, kinematics, and motion graphs**.
 
 ## 📂 Homework Overview
